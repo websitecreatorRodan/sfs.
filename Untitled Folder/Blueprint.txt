@@ -1,0 +1,4405 @@
+{
+    "saveName": "",
+    "cameraPosition": {
+        "x": 9.033851623535157,
+        "y": 65.5,
+        "z": -18.0
+    },
+    "parts": [
+        {
+            "partName": "12x2 Tank",
+            "position": {
+                "x": 0.0,
+                "y": 69.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -15
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone",
+            "position": {
+                "x": 4.5,
+                "y": 75.5
+            },
+            "orientation": {
+                "x": -4,
+                "y": -5,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 5.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x2 Tank",
+            "position": {
+                "x": 5.5,
+                "y": 90.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 5.5,
+                "y": 91.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 0.0,
+                "y": 75.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 4.0,
+                "y": 75.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 5.5,
+                "y": 73.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 5.0,
+                "y": 88.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x2 Tank",
+            "position": {
+                "x": 4.0,
+                "y": 68.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 5.5,
+                "y": 109.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 6.0,
+                "y": 108.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 6.0,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x12 Tank",
+            "position": {
+                "x": 0.0,
+                "y": 69.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 12.0,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 14.0,
+                "y": 75.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 12.0,
+                "y": 75.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x12 Tank",
+            "position": {
+                "x": 12.0,
+                "y": 69.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x2 Tank",
+            "position": {
+                "x": 12.5,
+                "y": 90.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone",
+            "position": {
+                "x": 13.5,
+                "y": 75.5
+            },
+            "orientation": {
+                "x": 4,
+                "y": -5,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 12.5,
+                "y": 73.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 12.0,
+                "y": 91.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 12.5,
+                "y": 90.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 10.5,
+                "y": 122.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 10.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 12.0,
+                "y": 109.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 11.5,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 11.5,
+                "y": 108.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 14.0,
+                "y": 90.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 5.5,
+                "y": 103.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 103.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 97.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 5.5,
+                "y": 97.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 5.5,
+                "y": 91.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 91.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 85.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 5.5,
+                "y": 85.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 5.5,
+                "y": 79.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 79.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 5.5,
+                "y": 73.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 73.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 107.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 105.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 103.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 101.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 99.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 97.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 95.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 93.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 91.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 89.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 87.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 85.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 83.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 81.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 79.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 77.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 75.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 73.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 4.0,
+                "y": 90.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x2 Tank",
+            "position": {
+                "x": 12.0,
+                "y": 68.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Big",
+            "position": {
+                "x": 10.5,
+                "y": 79.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 3,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 71.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 6.5,
+                "y": 71.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 6.5,
+                "y": 72.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 6.5,
+                "y": 72.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 6.5,
+                "y": 71.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.0,
+                "y": 71.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.0,
+                "y": 71.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.0,
+                "y": 72.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.0,
+                "y": 72.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.0,
+                "y": 71.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 71.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Big",
+            "position": {
+                "x": 9.0,
+                "y": 79.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 3,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Big",
+            "position": {
+                "x": 12.0,
+                "y": 79.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 3,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x4 Tank",
+            "position": {
+                "x": 5.5,
+                "y": 118.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x4 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 118.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 6.0,
+                "y": 119.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x4 Tank",
+            "position": {
+                "x": 6.0,
+                "y": 120.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x4 Tank",
+            "position": {
+                "x": 7.0,
+                "y": 120.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 121.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 7.0,
+                "y": 121.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Separator 4w",
+            "position": {
+                "x": 8.0,
+                "y": 124.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Parachute",
+            "position": {
+                "x": 8.5,
+                "y": 125.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x4 Tank",
+            "position": {
+                "x": 5.5,
+                "y": 110.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x2 Tank",
+            "position": {
+                "x": 5.5,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x4 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 110.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x2 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.0,
+                "y": 121.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 121.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.5,
+                "y": 122.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 119.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.5,
+                "y": 122.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 8.5,
+                "y": 122.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 4.0,
+                "y": 116.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.5,
+                "y": 116.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 4.5,
+                "y": 116.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.0,
+                "y": 116.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Capsule",
+            "position": {
+                "x": 12.0,
+                "y": 117.0
+            },
+            "orientation": {
+                "x": -3,
+                "y": 3,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 112.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 5.0,
+                "y": 110.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -4,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 5.0,
+                "y": 111.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -4,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 5.0,
+                "y": 112.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -4,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 5.0,
+                "y": 113.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -4,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 5.0,
+                "y": 114.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -4,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 5.0,
+                "y": 115.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -4,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 5.0,
+                "y": 116.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -4,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 5.5,
+                "y": 112.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 5.5,
+                "y": 111.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 5.5,
+                "y": 110.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 5.5,
+                "y": 112.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 5.5,
+                "y": 116.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 5.5,
+                "y": 115.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 5.5,
+                "y": 114.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 5.5,
+                "y": 113.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 11.5,
+                "y": 116.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 11.5,
+                "y": 115.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 11.5,
+                "y": 114.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 11.5,
+                "y": 113.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 11.5,
+                "y": 112.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 11.5,
+                "y": 111.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 11.5,
+                "y": 110.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 8.5,
+                "y": 117.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 8.5,
+                "y": 117.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.0,
+                "y": 117.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.0,
+                "y": 117.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x2 Tank",
+            "position": {
+                "x": 16.5,
+                "y": 113.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -240
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "4x2 Tank",
+            "position": {
+                "x": 12.5,
+                "y": 110.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 3
+        },
+        {
+            "partName": "10x2 Tank",
+            "position": {
+                "x": 12.5,
+                "y": 118.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 12.5,
+                "y": 112.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 6
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 12.5,
+                "y": 111.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 6
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 15.5,
+                "y": 113.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 1
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 13.5,
+                "y": 116.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 2
+        },
+        {
+            "partName": "12x2 Tank",
+            "position": {
+                "x": 1.5,
+                "y": 113.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -120
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "10x2 Tank",
+            "position": {
+                "x": 5.5,
+                "y": 118.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 1.5,
+                "y": 112.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 6
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 1.5,
+                "y": 111.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 6
+        },
+        {
+            "partName": "10x2 Tank",
+            "position": {
+                "x": 1.5,
+                "y": 111.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -210
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "10x2 Tank",
+            "position": {
+                "x": 16.5,
+                "y": 111.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -150
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 12.5,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 5.0,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x2 Tank",
+            "position": {
+                "x": 5.5,
+                "y": 110.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 3
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 2.5,
+                "y": 113.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 1
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 4.5,
+                "y": 116.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 2
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.0,
+                "y": 121.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 11.0,
+                "y": 120.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -240
+            },
+            "skinId": 6
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 7.0,
+                "y": 120.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -300
+            },
+            "skinId": 6
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 6.0,
+                "y": 121.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 8.5,
+                "y": 124.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 8.5,
+                "y": 124.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 5.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Landing Leg",
+            "position": {
+                "x": 10.5,
+                "y": 69.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Landing Leg",
+            "position": {
+                "x": 7.5,
+                "y": 69.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.0,
+                "y": 68.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 68.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Separator 6w",
+            "position": {
+                "x": 7.0,
+                "y": 70.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Separator 6w",
+            "position": {
+                "x": 11.0,
+                "y": 70.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Parachute",
+            "position": {
+                "x": 10.5,
+                "y": 69.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Parachute",
+            "position": {
+                "x": 7.5,
+                "y": 69.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x4 Tank",
+            "position": {
+                "x": 7.0,
+                "y": 122.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x2 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x2 Tank",
+            "position": {
+                "x": 18.0,
+                "y": 69.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -165
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x2 Tank",
+            "position": {
+                "x": 5.0,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 10.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 10.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 10.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 10.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 10.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 10.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 10.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 10.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 10.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 10.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 10.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 10.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 10.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 10.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 10.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 7.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 7.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 7.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 7.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 7.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 7.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 7.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 7.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 6.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 7.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 7.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 7.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 7.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 7.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 7.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 7.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 7.5,
+                "y": 122.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 67.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Separator 10w",
+            "position": {
+                "x": 7.5,
+                "y": 65.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 2
+        },
+        {
+            "partName": "Separator 10w",
+            "position": {
+                "x": 10.5,
+                "y": 65.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 2
+        },
+        {
+            "partName": "10x2 Tank",
+            "position": {
+                "x": 5.0,
+                "y": 64.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 5
+        },
+        {
+            "partName": "10x2 Tank",
+            "position": {
+                "x": 5.0,
+                "y": 63.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 5
+        },
+        {
+            "partName": "10x2 Tank",
+            "position": {
+                "x": 5.0,
+                "y": 62.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 5
+        },
+        {
+            "partName": "10x2 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 64.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 5
+        },
+        {
+            "partName": "10x2 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 63.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 5
+        },
+        {
+            "partName": "10x2 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 62.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 5
+        },
+        {
+            "partName": "10x2 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 61.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 5
+        },
+        {
+            "partName": "10x4 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 59.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 5.0,
+                "y": 53.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 53.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 5.0,
+                "y": 47.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 47.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 5.0,
+                "y": 41.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 41.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 5.0,
+                "y": 35.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 35.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 5.0,
+                "y": 29.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 5.0,
+                "y": 23.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 5.0,
+                "y": 17.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 5.0,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 29.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 23.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 17.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 5.0,
+                "y": 11.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 11.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Cone Left",
+            "position": {
+                "x": 4.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 3.5,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 7.0,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 11.0,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 12.0,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 6.0,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 14.5,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 15.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 2.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone",
+            "position": {
+                "x": 4.5,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone",
+            "position": {
+                "x": 13.5,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 13.5,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 3.5,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone",
+            "position": {
+                "x": 8.0,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone",
+            "position": {
+                "x": 10.0,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Cone Left",
+            "position": {
+                "x": 10.0,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Cone Left",
+            "position": {
+                "x": 8.0,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x2 Tank",
+            "position": {
+                "x": 5.0,
+                "y": 4.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x2 Tank",
+            "position": {
+                "x": 4.5,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x2 Tank",
+            "position": {
+                "x": 4.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x2 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 4.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x2 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x2 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 10.0,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Mini",
+            "position": {
+                "x": 4.0,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Mini",
+            "position": {
+                "x": 4.5,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Mini",
+            "position": {
+                "x": 5.0,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Mini",
+            "position": {
+                "x": 7.0,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Mini",
+            "position": {
+                "x": 7.5,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Mini",
+            "position": {
+                "x": 8.0,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Mini",
+            "position": {
+                "x": 8.5,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Mini",
+            "position": {
+                "x": 9.0,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Mini",
+            "position": {
+                "x": 11.0,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Mini",
+            "position": {
+                "x": 11.5,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Mini",
+            "position": {
+                "x": 12.0,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Capsule",
+            "position": {
+                "x": 10.5,
+                "y": 59.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Capsule",
+            "position": {
+                "x": 10.5,
+                "y": 59.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 12.5,
+                "y": 61.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x4 Tank",
+            "position": {
+                "x": 5.0,
+                "y": 59.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Capsule",
+            "position": {
+                "x": 5.5,
+                "y": 59.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x2 Tank",
+            "position": {
+                "x": 5.0,
+                "y": 61.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 5
+        },
+        {
+            "partName": "Capsule",
+            "position": {
+                "x": 5.5,
+                "y": 59.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 5.5,
+                "y": 61.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 5.0,
+                "y": 61.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Cone Left",
+            "position": {
+                "x": 13.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Big",
+            "position": {
+                "x": 13.0,
+                "y": 23.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 5,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Big",
+            "position": {
+                "x": 8.0,
+                "y": 23.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 5,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Big",
+            "position": {
+                "x": 9.5,
+                "y": 23.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 5,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Big",
+            "position": {
+                "x": 11.5,
+                "y": 23.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 5,
+                "z": 0
+            },
+            "skinId": 0
+        }
+    ],
+    "rotation": 0
+}

@@ -1,0 +1,3294 @@
+{
+  "parts": [
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 19.9999962
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 5.0,
+        "width_a": 5.0,
+        "width_b": 5.0,
+        "height": 4.0,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Cone Side",
+      "p": {
+        "x": 14.0,
+        "y": 27.0
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "size": 4.2
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 9.0,
+        "y": 24.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 2.0,
+        "width_a": 2.0,
+        "width_b": 2.0,
+        "height": 0.5
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Gray",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 9.0,
+        "y": 25.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 2.0,
+        "width_a": 2.0,
+        "width_b": 2.0,
+        "height": 0.5
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Orange",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fairing Cone",
+      "p": {
+        "x": 9.0,
+        "y": 25.25
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -180
+      },
+      "N": {
+        "width_original": 0.2,
+        "width": 0.20000000298023224,
+        "height": 0.2
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Array",
+        "shade_tex": "_"
+      }
+    },
+    {
+      "n": "Fairing Cone",
+      "p": {
+        "x": 9.0,
+        "y": 25.25
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.2,
+        "width": 0.20000000298023224,
+        "height": 0.2
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Array",
+        "shade_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 23.9999962
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 5.0,
+        "width_a": 5.0,
+        "width_b": 5.0,
+        "height": 2.0,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 15.999999
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 5.0,
+        "width_a": 5.0,
+        "width_b": 5.0,
+        "height": 4.0,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 11.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 5.0,
+        "width_a": 5.0,
+        "width_b": 5.0,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 14.0,
+        "y": 23.0
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 4.5,
+        "width_a": 4.5,
+        "width_b": 4.5,
+        "height": 2.0,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 7.5,
+        "y": 18.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.2,
+        "width_a": 0.20000000298023224,
+        "width_b": 0.20000000298023224,
+        "height": 2.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "_",
+        "shape_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fairing Cone",
+      "p": {
+        "x": 7.0,
+        "y": 20.0
+      },
+      "o": {
+        "x": 1,
+        "y": -1,
+        "z": -180
+      },
+      "N": {
+        "width_original": 0.2,
+        "width": 0.20000000298023224,
+        "height": 1.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "_",
+        "shade_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fairing Cone",
+      "p": {
+        "x": 7.5,
+        "y": 20.0
+      },
+      "o": {
+        "x": 1,
+        "y": -1,
+        "z": -180
+      },
+      "N": {
+        "width_original": 0.2,
+        "width": 0.20000000298023224,
+        "height": 1.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "_",
+        "shade_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 7.0,
+        "y": 18.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.2,
+        "width_a": 0.20000000298023224,
+        "width_b": 0.20000000298023224,
+        "height": 2.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "_",
+        "shape_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fairing Cone",
+      "p": {
+        "x": 7.0,
+        "y": 18.0
+      },
+      "o": {
+        "x": 1,
+        "y": -1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.2,
+        "width": 0.20000000298023224,
+        "height": 1.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "_",
+        "shade_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fairing Cone",
+      "p": {
+        "x": 7.5,
+        "y": 18.0
+      },
+      "o": {
+        "x": 1,
+        "y": -1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.2,
+        "width": 0.20000000298023224,
+        "height": 1.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "_",
+        "shade_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 15.0,
+        "y": 2.0
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 25.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_White",
+        "shape_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 14.0,
+        "y": 11.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 4.5,
+        "width_a": 4.5,
+        "width_b": 4.5,
+        "height": 4.0,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 14.15,
+        "y": 20.8000031
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 140
+      },
+      "N": {
+        "width_original": 0.9,
+        "width_a": 0.89999997615814209,
+        "width_b": 0.89999997615814209,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 14.0,
+        "y": 17.9000015
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -540
+      },
+      "N": {
+        "width_original": 1.1,
+        "width_a": 1.1000000238418579,
+        "width_b": 1.1000000238418579,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 13.5499973,
+        "y": 18.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -270
+      },
+      "N": {
+        "width_original": 1.1,
+        "width_a": 1.1000000238418579,
+        "width_b": 1.1000000238418579,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 14.6999969,
+        "y": 18.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -270
+      },
+      "N": {
+        "width_original": 1.1,
+        "width_a": 1.1000000238418579,
+        "width_b": 1.1000000238418579,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 14.0,
+        "y": 19.1999969
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -180
+      },
+      "N": {
+        "width_original": 1.1,
+        "width_a": 1.1000000238418579,
+        "width_b": 1.1000000238418579,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 13.3,
+        "y": 20.9000015
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      },
+      "N": {
+        "width_original": 1.1,
+        "width_a": 1.1000000238418579,
+        "width_b": 1.1000000238418579,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing Cone",
+      "p": {
+        "x": 14.0,
+        "y": 21.3000031
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -180
+      },
+      "N": {
+        "width_original": 1.0,
+        "width": 1.0,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shade_tex": "_"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 14.35,
+        "y": 21.4000015
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing Cone",
+      "p": {
+        "x": 13.8000031,
+        "y": 22.75
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -180
+      },
+      "N": {
+        "width_original": 0.6,
+        "width": 0.60000002384185791,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": "right",
+        "color_tex": "Color_Black",
+        "shade_tex": "_"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 14.45,
+        "y": 22.9000015
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      },
+      "N": {
+        "width_original": 0.3,
+        "width_a": 0.30000001192092896,
+        "width_b": 0.30000001192092896,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 14.2,
+        "y": 22.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -360
+      },
+      "N": {
+        "width_original": 0.7,
+        "width_a": 0.699999988079071,
+        "width_b": 0.699999988079071,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 14.0,
+        "y": 23.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -360
+      },
+      "N": {
+        "width_original": 1.0,
+        "width_a": 1.0,
+        "width_b": 1.0,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing Cone",
+      "p": {
+        "x": 14.2,
+        "y": 23.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.6,
+        "width": 0.60000002384185791,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": "right",
+        "color_tex": "Color_Black",
+        "shade_tex": "_"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 13.8,
+        "y": 23.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -360
+      },
+      "N": {
+        "width_original": 0.7,
+        "width_a": 0.699999988079071,
+        "width_b": 0.699999988079071,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 13.3,
+        "y": 23.4000015
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      },
+      "N": {
+        "width_original": 0.3,
+        "width_a": 0.30000001192092896,
+        "width_b": 0.30000001192092896,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 13.8,
+        "y": 25.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      },
+      "N": {
+        "width_original": 1.1,
+        "width_a": 1.1000000238418579,
+        "width_b": 1.1000000238418579,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 9.0,
+        "y": 50.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 5.0,
+        "width_a": 6.0,
+        "width_b": 5.0,
+        "height": 2.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 4.0,
+        "y": 25.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 4.5,
+        "width_a": 4.5,
+        "width_b": 4.1999998092651367,
+        "height": 2.0,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Edges Faces"
+      }
+    },
+    {
+      "n": "Cone Side",
+      "p": {
+        "x": 4.0,
+        "y": 27.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "size": 4.2
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Edges Faces Bottom"
+      }
+    },
+    {
+      "n": "Engine Titan",
+      "p": {
+        "x": 4.0,
+        "y": 8.5
+      },
+      "o": {
+        "x": 1,
+        "y": 2,
+        "z": 0
+      },
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Engine Titan",
+      "p": {
+        "x": 9.1,
+        "y": 5.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "B": {
+        "engine_on": false
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 1.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 3.5,
+        "width_a": 3.5,
+        "width_b": 2.0,
+        "height": 3.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Metal_3",
+        "shape_tex": "Nozzle_4"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 4.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 2.0,
+        "width_a": 2.0,
+        "width_b": 2.0,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 9.0,
+        "y": 5.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 3.0,
+        "width_a": 3.0,
+        "width_b": 3.5,
+        "height": 1.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Pattern_Cone",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 9.0,
+        "y": 6.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 3.5,
+        "width_a": 3.5,
+        "width_b": 4.0,
+        "height": 1.5
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_White",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 9.0,
+        "y": 7.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 4.0,
+        "width_a": 4.0,
+        "width_b": 4.5999999046325684,
+        "height": 1.5
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "_",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 5.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 4.0,
+        "width_a": 2.0,
+        "width_b": 4.0,
+        "height": 3.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "Edges Faces Bottom"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 9.0,
+        "y": 9.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 4.6,
+        "width_a": 4.5999999046325684,
+        "width_b": 4.5999999046325684,
+        "height": 2.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "_",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 9.0,
+        "y": 4.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 3.0,
+        "width_a": 3.0,
+        "width_b": 3.0,
+        "height": 1.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "_",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Engine Titan",
+      "p": {
+        "x": 8.9,
+        "y": 5.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "B": {
+        "engine_on": false
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 26.9999962
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 5.0,
+        "width_a": 5.0,
+        "width_b": 5.0,
+        "height": 0.1,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Metal",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 28.0999966
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 5.0,
+        "width_a": 5.0,
+        "width_b": 5.0,
+        "height": 0.1,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Metal",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 1.0,
+        "y": 3.00000286
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Cone",
+      "p": {
+        "x": 1.0,
+        "y": 9.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "size": 1.5
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 1.0,
+        "y": 9.200001
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 0.3,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Pattern_Cone",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 1.0,
+        "y": 8.200002
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 1.0,
+        "y": 7.90000153
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 0.3,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Pattern_Cone",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 1.0,
+        "y": 6.90000153
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 1.0,
+        "y": 6.60000229
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 0.3,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Pattern_Cone",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 1.0,
+        "y": 5.60000229
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 1.0,
+        "y": 5.300003
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 0.3,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Pattern_Cone",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 1.0,
+        "y": 4.300003
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 1.0,
+        "y": 4.000003
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 0.3,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Pattern_Cone",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Side Fuselage",
+      "p": {
+        "x": 1.1,
+        "y": 3.0
+      },
+      "o": {
+        "x": -1,
+        "y": -1,
+        "z": 0
+      },
+      "N": {
+        "size": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 0.65,
+        "y": 1.60000384
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.75,
+        "width_a": 0.75,
+        "width_b": 0.75,
+        "height": 1.5,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 17.0,
+        "y": 3.00000286
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Cone",
+      "p": {
+        "x": 17.0,
+        "y": 9.5
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "size": 1.5
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 17.0,
+        "y": 9.200001
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 0.3,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Pattern_Cone",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 17.0,
+        "y": 8.200002
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 17.0,
+        "y": 7.90000153
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 0.3,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Pattern_Cone",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 17.0,
+        "y": 6.90000153
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 17.0,
+        "y": 6.60000229
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 0.3,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Pattern_Cone",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 17.0,
+        "y": 5.60000229
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 17.0,
+        "y": 5.300003
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 0.3,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Pattern_Cone",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 17.0,
+        "y": 4.300003
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 17.0,
+        "y": 4.000003
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.5,
+        "width_a": 1.5,
+        "width_b": 1.5,
+        "height": 0.3,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Pattern_Cone",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Side Fuselage",
+      "p": {
+        "x": 16.9,
+        "y": 3.0
+      },
+      "o": {
+        "x": 1,
+        "y": -1,
+        "z": 0
+      },
+      "N": {
+        "size": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 17.35,
+        "y": 1.60000384
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.75,
+        "width_a": 0.75,
+        "width_b": 0.75,
+        "height": 1.5,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 27.0999966
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 5.0,
+        "width_a": 5.0,
+        "width_b": 5.0,
+        "height": 1.0,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 28.1999969
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 5.0,
+        "width_a": 5.0,
+        "width_b": 5.0,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Side Separator",
+      "p": {
+        "x": 6.0,
+        "y": 28.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "T": {
+        "fragment": null
+      }
+    },
+    {
+      "n": "Strut",
+      "p": {
+        "x": 5.5,
+        "y": 28.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "size": 0.5
+      }
+    },
+    {
+      "n": "Side Separator",
+      "p": {
+        "x": 11.5,
+        "y": 28.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "T": {
+        "fragment": null
+      }
+    },
+    {
+      "n": "Strut",
+      "p": {
+        "x": 12.5,
+        "y": 28.0
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "size": 0.5
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 29.1999969
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 5.3,
+        "width_a": 5.0,
+        "width_b": 5.3000001907348633,
+        "height": 0.5,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Metal_2",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Separator",
+      "p": {
+        "x": 9.0,
+        "y": 29.699995
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width": 5.3,
+        "width_b": 5.3000001907348633,
+        "height": 3.8000049591064453,
+        "height_max": 5.0
+      },
+      "T": {
+        "color_tex": "Color_Black"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 41.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 5.3,
+        "width_a": 5.3000001907348633,
+        "width_b": 5.3000001907348633,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 42.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 5.3,
+        "width_a": 5.3000001907348633,
+        "width_b": 5.3000001907348633,
+        "height": 0.2,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Metal",
+        "shape_tex": "Edges Faces"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 42.2
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 5.3,
+        "width_a": 5.3000001907348633,
+        "width_b": 5.3000001907348633,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Edges Faces"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 43.2
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 4.8,
+        "width_a": 5.3000001907348633,
+        "width_b": 4.8000001907348633,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Edges Faces"
+      }
+    },
+    {
+      "n": "Docking Port",
+      "p": {
+        "x": 9.0,
+        "y": 44.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width": 3.0
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 9.0,
+        "y": 42.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 5.3,
+        "width_a": 5.3000001907348633,
+        "width_b": 6.0,
+        "height": 2.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 9.0,
+        "y": 44.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 6.0,
+        "width_a": 6.0,
+        "width_b": 6.0,
+        "height": 2.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 9.0,
+        "y": 46.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 6.0,
+        "width_a": 6.0,
+        "width_b": 6.0,
+        "height": 2.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 9.0,
+        "y": 48.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 6.0,
+        "width_a": 6.0,
+        "width_b": 6.0,
+        "height": 2.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fairing Cone",
+      "p": {
+        "x": 9.0,
+        "y": 54.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 2.0,
+        "width": 3.0,
+        "height": 2.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "_",
+        "shade_tex": "_"
+      }
+    },
+    {
+      "n": "Engine Hawk",
+      "p": {
+        "x": 9.0,
+        "y": 34.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "B": {
+        "engine_on": false
+      }
+    },
+    {
+      "n": "Engine Frontier",
+      "p": {
+        "x": 9.0,
+        "y": 34.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "B": {
+        "engine_on": false
+      }
+    },
+    {
+      "n": "Engine Titan",
+      "p": {
+        "x": 14.0,
+        "y": 8.5
+      },
+      "o": {
+        "x": 1,
+        "y": 2,
+        "z": 0
+      },
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 4.0,
+        "y": 7.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 4.5,
+        "width_a": 4.5,
+        "width_b": 4.5,
+        "height": 4.0,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 4.0,
+        "y": 11.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 4.5,
+        "width_a": 4.5,
+        "width_b": 4.5,
+        "height": 4.0,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 14.0,
+        "y": 7.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 4.5,
+        "width_a": 4.5,
+        "width_b": 4.5,
+        "height": 4.0,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Cone",
+      "p": {
+        "x": 4.0,
+        "y": 0.0
+      },
+      "o": {
+        "x": 1,
+        "y": 3,
+        "z": 0
+      },
+      "N": {
+        "size": 3.6
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Cone",
+      "p": {
+        "x": 14.0,
+        "y": 0.0
+      },
+      "o": {
+        "x": -1,
+        "y": 3,
+        "z": 0
+      },
+      "N": {
+        "size": 3.6
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 4.0,
+        "y": 8.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 2.0,
+        "width_a": 2.0,
+        "width_b": 2.0,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 14.0,
+        "y": 8.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 2.0,
+        "width_a": 2.0,
+        "width_b": 2.0,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 4.0,
+        "y": 3.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 4.5,
+        "width_a": 4.5,
+        "width_b": 4.5,
+        "height": 4.0,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 14.0,
+        "y": 3.0
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 4.5,
+        "width_a": 4.5,
+        "width_b": 4.5,
+        "height": 4.0,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 4.0,
+        "y": 1.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 5.5,
+        "width_a": 5.5,
+        "width_b": 4.5,
+        "height": 2.0,
+        "fuel_percent": -0.1
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 14.0,
+        "y": 1.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 5.5,
+        "width_a": 5.5,
+        "width_b": 4.5,
+        "height": 2.0,
+        "fuel_percent": -0.1
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 4.15000057,
+        "y": 18.0999985
+      },
+      "o": {
+        "x": -1,
+        "y": -1,
+        "z": -360
+      },
+      "N": {
+        "width_original": 0.4,
+        "width_a": 0.40000000596046448,
+        "width_b": 0.40000000596046448,
+        "height": 0.2
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 3.75000024,
+        "y": 18.0999985
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -110
+      },
+      "N": {
+        "width_original": 1.0,
+        "width_a": 1.0,
+        "width_b": 1.0,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 4.25,
+        "y": 18.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -70
+      },
+      "N": {
+        "width_original": 1.0,
+        "width_a": 1.0,
+        "width_b": 1.0,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 4.0,
+        "y": 20.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      },
+      "N": {
+        "width_original": 1.0,
+        "width_a": 1.0,
+        "width_b": 1.0,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 4.10000038,
+        "y": 21.32
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.3,
+        "width_a": 0.30000001192092896,
+        "width_b": 0.30000001192092896,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 4.10000038,
+        "y": 22.3700027
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.3,
+        "width_a": 0.30000001192092896,
+        "width_b": 0.30000001192092896,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing Cone",
+      "p": {
+        "x": 4.40000057,
+        "y": 22.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      },
+      "N": {
+        "width_original": 1.0,
+        "width": 1.0,
+        "height": 0.5
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shade_tex": "_"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 3.50000024,
+        "y": 24.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      },
+      "N": {
+        "width_original": 1.0,
+        "width_a": 1.0,
+        "width_b": 1.0,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 4.3,
+        "y": 24.0999985
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 130
+      },
+      "N": {
+        "width_original": 1.2,
+        "width_a": 1.2000000476837158,
+        "width_b": 1.2000000476837158,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 4.5,
+        "y": 24.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      },
+      "N": {
+        "width_original": 1.0,
+        "width_a": 1.0,
+        "width_b": 1.0,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 4.0,
+        "y": 26.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      },
+      "N": {
+        "width_original": 1.0,
+        "width_a": 1.0,
+        "width_b": 1.0,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 4.0,
+        "y": 14.999999
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 4.5,
+        "width_a": 4.5,
+        "width_b": 4.5,
+        "height": 4.0,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 4.0,
+        "y": 23.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 4.5,
+        "width_a": 4.5,
+        "width_b": 4.5,
+        "height": 2.0,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 3.50000024,
+        "y": 22.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      },
+      "N": {
+        "width_original": 0.9,
+        "width_a": 0.89999997615814209,
+        "width_b": 0.89999997615814209,
+        "height": 0.3
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 4.0,
+        "y": 19.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 4.5,
+        "width_a": 4.5,
+        "width_b": 4.5,
+        "height": 4.0,
+        "fuel_percent": 3.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 14.0,
+        "y": 25.0
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 4.5,
+        "width_a": 4.5,
+        "width_b": 4.1999998092651367,
+        "height": 2.0,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "Edges Faces"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 14.0,
+        "y": 15.0
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 4.5,
+        "width_a": 4.5,
+        "width_b": 4.5,
+        "height": 4.0,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 3.0,
+        "y": 2.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 25.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_White",
+        "shape_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 9.0,
+        "y": 12.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.5,
+        "width_a": 0.5,
+        "width_b": 0.5,
+        "height": 5.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "_",
+        "shape_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fairing Cone",
+      "p": {
+        "x": 9.0,
+        "y": 12.0
+      },
+      "o": {
+        "x": 1,
+        "y": -1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.5,
+        "width": 0.5,
+        "height": 1.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "_",
+        "shade_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fairing Cone",
+      "p": {
+        "x": 9.0,
+        "y": 17.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.5,
+        "width": 0.5,
+        "height": 1.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "_",
+        "shade_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 8.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 4.0,
+        "width_a": 4.0,
+        "width_b": 4.0,
+        "height": 3.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 12.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 5.0,
+        "width_a": 5.0,
+        "width_b": 5.0,
+        "height": 4.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 25.9999962
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 5.0,
+        "width_a": 5.0,
+        "width_b": 5.0,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fairing Cone",
+      "p": {
+        "x": 14.0,
+        "y": 21.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.1,
+        "width": 1.1000000238418579,
+        "height": 0.4
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shade_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 14.0,
+        "y": 19.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 4.5,
+        "width_a": 4.5,
+        "width_b": 4.5,
+        "height": 4.0,
+        "fuel_percent": 3.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 34.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 5.3,
+        "width_a": 5.3000001907348633,
+        "width_b": 5.3000001907348633,
+        "height": 7.0,
+        "fuel_percent": 2.0
+      },
+      "T": {
+        "color_tex": "Color_Gray",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 10.5,
+        "y": 34.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.2,
+        "width_a": 0.20000000298023224,
+        "width_b": 0.20000000298023224,
+        "height": 8.6
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Metal_2",
+        "shape_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 7.0,
+        "y": 36.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.2,
+        "width_a": 0.20000000298023224,
+        "width_b": 0.20000000298023224,
+        "height": 0.5
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "Color_Black",
+        "shape_tex": "Rivets"
+      }
+    },
+    {
+      "n": "Fairing",
+      "p": {
+        "x": 9.0,
+        "y": 52.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 3.0,
+        "width_a": 5.0,
+        "width_b": 3.0,
+        "height": 2.0
+      },
+      "T": {
+        "fragment": null,
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Separator",
+      "p": {
+        "x": 9.0,
+        "y": 46.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width": 2.0,
+        "width_b": 2.0,
+        "height": 0.5,
+        "height_max": 4.0
+      },
+      "T": {
+        "color_tex": ""
+      }
+    },
+    {
+      "n": "Solar Array 2",
+      "p": {
+        "x": 11.0,
+        "y": 45.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "state": 0.0,
+        "state_target": 0.0
+      }
+    },
+    {
+      "n": "Solar Array 2",
+      "p": {
+        "x": 7.0,
+        "y": 45.5
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "state": 0.0,
+        "state_target": 0.0
+      }
+    },
+    {
+      "n": "Solar Array 2",
+      "p": {
+        "x": 11.0,
+        "y": 48.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "state": 0.0,
+        "state_target": 0.0
+      }
+    },
+    {
+      "n": "Solar Array 2",
+      "p": {
+        "x": 7.0,
+        "y": 48.0
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "state": 0.0,
+        "state_target": 0.0
+      }
+    },
+    {
+      "n": "Separator",
+      "p": {
+        "x": 9.0,
+        "y": 49.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width": 2.0,
+        "width_b": 2.0,
+        "height": 0.5,
+        "height_max": 4.0
+      },
+      "T": {
+        "color_tex": ""
+      }
+    },
+    {
+      "n": "Solar Array 2",
+      "p": {
+        "x": 11.0,
+        "y": 50.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "state": 0.0,
+        "state_target": 0.0
+      }
+    },
+    {
+      "n": "Solar Array 2",
+      "p": {
+        "x": 7.0,
+        "y": 50.5
+      },
+      "o": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "state": 0.0,
+        "state_target": 0.0
+      }
+    },
+    {
+      "n": "Probe",
+      "p": {
+        "x": 9.0,
+        "y": 45.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width": 2.0
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 7.0,
+        "y": 50.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      },
+      "N": {
+        "width_original": 2.0,
+        "width_a": 2.0,
+        "width_b": 2.0,
+        "height": 4.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 7.0,
+        "y": 48.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      },
+      "N": {
+        "width_original": 2.0,
+        "width_a": 2.0,
+        "width_b": 2.0,
+        "height": 4.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 11.0,
+        "y": 45.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -270
+      },
+      "N": {
+        "width_original": 2.0,
+        "width_a": 2.0,
+        "width_b": 2.0,
+        "height": 4.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Probe",
+      "p": {
+        "x": 9.0,
+        "y": 50.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width": 2.0
+      }
+    },
+    {
+      "n": "Probe",
+      "p": {
+        "x": 9.0,
+        "y": 47.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width": 2.0
+      }
+    }
+  ]
+}

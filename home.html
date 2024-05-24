@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outlet Search</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000;
+            color: #fff;
+            margin: 0;
+            padding: 20px;
+        }
+    
+        h1 {
+            text-align: center;
+            color: #00a8ff;
+        }
+    
+        form {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+    
+        input[type="text"] {
+            padding: 10px;
+            width: 300px;
+            border: none;
+            border-radius: 5px;
+            background-color: #1a1a1a;
+            color: #fff;
+        }
+    
+        button {
+            padding: 10px 20px;
+            background-color: #00a8ff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    
+        .result-item {
+            margin-bottom: 20px;
+            padding: 20px;
+            background-color: #1a1a1a;
+            border: 1px solid #00a8ff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px #00a8ff;
+            position: relative;
+            overflow: hidden;
+            z-index: 1;
+        }
+    
+        .result-item::before {
+            content: "";
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: linear-gradient(45deg, transparent, #00a8ff, transparent);
+            transform-origin: center;
+            animation: pulse 5s linear infinite;
+            z-index: -1;
+        }
+    
+        @keyframes pulse {
+            0% {
+                transform: scale(1) rotate(0deg);
+                opacity: 0.8;
+            }
+            50% {
+                transform: scale(1.2) rotate(180deg);
+                opacity: 0.2;
+            }
+            100% {
+                transform: scale(1) rotate(360deg);
+                opacity: 0.8;
+            }
+        }
+    
+        .result-item h3 {
+            margin-top: 0;
+            color: #00a8ff;
+        }
+    
+        .result-item p {
+            margin-bottom: 10px;
+        }
+    
+        .result-item img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+        }
+    
+        .result-item .close-button {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background-color: transparent;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+    
+        .download-button {
+            display: none;
+        }
+
+        .result-item .close-button {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        background-color: transparent;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+        /* Highlighting styles */
+        font-weight: bold;
+        text-decoration: underline;
+        text-transform: uppercase;
+    }
+
+    /* ... */
+</style>
+    </style>
+
+
+</head>
+<body>
+    <header>
+        <h1>BP Search</h1>
+    </header>
+
+    <main>
+        <form id="search-form">
+            <input type="text" id="search-input" placeholder="Search outlets...">
+            <button type="submit">Search</button>
+        </form>
+
+        <div id="search-results"></div>
+    </main>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+    <script>
+        // Array of outlets
+        const outlets = [
+            {
+                name: 'Truck',
+                description: 'A basic truck in sfs',
+                image: 'truck.jpg',
+                files: ['truck/blueprint.txt', 'truck/version.txt']
+            },
+            {
+                name: 'Tower Satellite',
+                description: 'Tower satilite whch rotates around the earth',
+                image: 'Tower Satellite.jpg',
+                files: ['Tower Satellite/blueprint.txt','Tower Satellite/Version.txt']
+            },
+
+            {
+                name: 'Underground',
+                description: '',
+                image: 'under ground.jpg',
+                files: ['underground/blueprint.txt', 'underground/version.txt']
+            },
+            {
+                name: 'Tesla car white',
+                description: 'tesla car',
+                image: 'tesla.jpg',
+                files: ['Tesla car white 1/blueprint.txt','Tesla car white 1/version.txt']
+            },
+            {
+                name: 'Street Light',
+                description: 'A stright light in sfs',
+                image: 'street light.jpg',
+                files: ['street light/blueprint.txt','street light/version.txt']
+            },
+            {
+                name: 'starship',
+                description: 'starship in sfs',
+                image: 'starship.jpg',
+                files: ['Starship_3D H/blueprint.txt','Starship_3D H/version.txt']
+            },
+            {
+                name: 'starship 2',
+                description: 'starship in sfs',
+                image: 'starship 2.jpg',
+                files: ['Starship/blueprint.txt','Starship/version.txt']
+            },
+            {
+                name: 'SSLV',
+                description: 'A rocket from isro',
+                image: 'sslv.jpg',
+                files: ['SSLV ISRO SFSA/blueprint.txt','SSLV ISRO SFSA/version.txt']
+            },
+            {
+                name: 'Space Station S.L',
+                description: 'A Space Station S.L',
+                image: 'space station 2.jpg',
+                files: ['Space Station S.L/blueprint.txt','Space Station S.L/version.txt']
+            },
+            {
+                name: 'sounding rockets 5-7',
+                description: 'sounding rocket',
+                image: 'sounding rocket.jpg',
+                files: ['sounding rockets 5-7/blueprint.txt','sounding rockets 5-7/version.txt']
+            },
+            {
+                name: 'Solar Power',
+                description: 'For energy',
+                image: 'solar power.jpg',
+                files: ['Solar Power/blueprint.txt','Solar Power/version.txt']
+            },
+            {
+                name: 'Sn8 By Prime Yt',
+                description: 'wonderful rocket',
+                image: 'yt one.jpg',
+                files: ['Sn8 By Prime Yt/blueprint.txt','Sn8 By Prime Yt/version.txt']
+            },
+            {
+                name: 'Single missile chopper',
+                description: 'A Chopper With Single Missile',
+                image: 'single missle chopper.jpg',
+                files: ['Single Missile Chopper/blueprint.txt','Single Missile Chopper/version.txt']
+            },
+            {
+                name: 'Sfs ph realistic iss',
+                description: 'Another Type of iss',
+                image: 'Sfs  pg realistic choper.jpg',
+                files: ['Sfs ph realistic iss/blueprint.txt','Sfs ph realistic iss/version.txt']
+            },
+            {
+                name: 'S T S Tanker',
+                description: 'A Powerful Rocket',
+                image: 'need to add',
+                files: ['S T S Tanker/blueprint.txt','S T S Tanker/version.txt']
+            },
+            {
+                name: 'MB-1 Fuel Tower',
+                description: 'A Rocket Which Carries Fuel',
+                image: 'a fule rocket.jpg',
+                files: ['MB-1 Fuel Tower/blueprint.txt',"MB-1 Fuel Tower/version.txt"]
+            },
+            {
+                name: 'Mars Mobile Base Gg',
+                description: 'Rover',
+                image: 'Need to add',
+                files: ['Mars Mobile Base Gg/blueprint.txt','Mars Mobile Base Gg/version.txt']
+            },
+            {
+                name: 'Mars 3with 25+Parashoot',
+                description: 'A one of a kind rocket with 25 parashoots',
+                image: 'mars 3.jpg',
+                files: ['Mars 3with 25+Parashoot/blueprint.txt','Mars 3with 25+Parashoot/version.txt']
+            },
+            {
+                name: ' Battle Flighter',
+                description: 'Description of  Space Ship by Space The',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: ' Zey',
+                description: 'Description of .git',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: '1) V2',
+                description: 'Description of 10) Mars 3',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: '11) Soyuz MS',
+                description: 'Description of 12) Salyut',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: '123',
+                description: 'Description of 13) Venera 9',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: '14) Viking 1',
+                description: 'Description of 15) Voyager 1',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: '16) STS-107',
+                description: 'Description of 17) Hubble Space Telesco',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: '18) NEAR Shoemaker',
+                description: 'Description of 19) MARS Pathfinder',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: '2) Sputnik 1',
+                description: 'Description of 20) Cassini Huygen',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: '21) ISS',
+                description: 'Description of 22) Falcon 1',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },  {
+                name: '23) Crew Dragon',
+                description: 'Description of 24) ATLAS V',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: '3) Sputnik 5',
+                description: 'Description of 4) Vostok 1',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: '5) Mariner-4',
+                description: 'Description of 6) Voskhod 2',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: '7) Saturn 1b',
+                description: 'Description of 8) apollo 11',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: '9) Lunokhod-1',
+                description: 'Description of a2',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Airbus Black',
+                description: 'Description of Airbus Gold',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Airbus Greay',
+                description: 'Description of Airbus Silver',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Airship',
+                description: 'Description of Aliens Battle Car',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'ASFS F-35',
+                description: 'Description of Astronaut(L)',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Astronaut(R)',
+                description: 'Description of Battle Tank',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Best Plane',
+                description: 'Description of Bgm',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Bluprints-App-main',
+                description: 'Description of Boeing 747 8',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Boieng 747 Chute Version',
+                description: 'Description of Boieng 747 Chute Versiono',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Boing 747',
+                description: 'Description of BSG Engine And Tanks',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },  {
+                name: 'build',
+                description: 'Description of Bullet Mk1',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Bxs',
+                description: 'Description of Colony',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Costom Capital Rocket',
+                description: 'Description of Costom Capsule',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Cybertruck',
+                description: 'Description of Dream Chaser',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            
+            {
+                name: 'Drone',
+                description: 'Description of Droneship',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Dut',
+                description: 'Description of Eay',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Eco Airplane',
+                description: 'Description of F22 Raptor For Battle',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Fast',
+                description: 'Description of Fast Astronot',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Fast Rocket 1',
+                description: 'Description of Ferris Wheel (1)',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Fighter Get 1',
+                description: 'Description of Fighter Get 2',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Fighter Jet',
+                description: 'Description of flappy bird',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Flight Black 1',
+                description: 'Description of Flight Dimond 1',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Flight Gold 1',
+                description: 'Description of Flight White 1',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'ftn',
+                description: 'Description of Gaganyaan SFSA',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },  {
+                name: 'Gslv',
+                description: 'Description of Gy',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'house',
+                description: 'Description of ITs 1',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Kb Mk Hdf Bcdd Ba',
+                description: 'Description of Kerbal Astronaut',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Ketzal_Plane',
+                description: 'Description of krish',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            
+            {
+                name: 'Liberty Free Version Air',
+                description: 'Description of Lunar Starship',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'mamma',
+                description: 'Description of Mangalyaan',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Saturn V 2',
+                description: 'Description of Single Missle Choper',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'speedup',
+                description: 'Description of Tesla Car White 1',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+            {
+                name: 'Untitled Folder',
+                description: 'Description of Outlet 2',
+                image: 'outlet2.jpg',
+                files: ['outlet2.pdf',""]
+            },
+     
+            
+        
+        ];
+
+        // Function to search outlets based on the query
+        function searchOutlets(query) {
+            return outlets.filter(outlet => {
+                return outlet.name.toLowerCase().includes(query.toLowerCase());
+            });
+        }
+
+        // Handle form submission
+        const searchForm = document.getElementById('search-form');
+        const searchInput = document.getElementById('search-input');
+        const searchResults = document.getElementById('search-results');
+
+        searchForm.addEventListener('submit', function(event) {
+            event.preventDefault();
+            const query = searchInput.value.trim();
+            const results = searchOutlets(query);
+            displayResults(results);
+        });
+
+        // Function to display the search results
+        function displayResults(results) {
+            searchResults.innerHTML = '';
+            if (results.length === 0) {
+                searchResults.textContent = 'No outlets found.';
+            } else {
+                results.forEach(outlet => {
+                    const resultItem = document.createElement('div');
+                    resultItem.classList.add('result-item');
+
+                    const title = document.createElement('h3');
+                    title.textContent = outlet.name;
+                    resultItem.appendChild(title);
+
+                    const description = document.createElement('p');
+                    description.textContent = outlet.description;
+                    resultItem.appendChild(description);
+
+                    const showButton = document.createElement('button');
+                    showButton.textContent = 'Show Details';
+                    showButton.addEventListener('click', function() {
+                        const details = document.createElement('div');
+                        details.innerHTML = `
+                            <p>Additional details about ${outlet.name}.</p>
+                            <img src="${outlet.image}" alt="${outlet.name}">
+                            <button class="close-button">Close</button>
+                        `;
+                        resultItem.appendChild(details);
+                        showButton.style.display = 'none';
+                        downloadButton.style.display = 'inline'; // Show the download button
+
+                        const closeButton = details.querySelector('.close-button');
+                        closeButton.addEventListener('click', function() {
+                            resultItem.removeChild(details);
+                            showButton.style.display = 'inline';
+                            downloadButton.style.display = 'none'; // Hide the download button
+                        });
+                    });
+                    resultItem.appendChild(showButton);
+
+                    const downloadButton = document.createElement('button');
+                    downloadButton.classList.add('download-button');
+                    downloadButton.textContent = 'Download All Files';
+                    downloadButton.addEventListener('click', async function() {
+                        const zip = new JSZip();
+                        const folder = zip.folder(outlet.name);
+
+                        // Fetch all files and add to the zip
+                        const filePromises = outlet.files.map(file => {
+                            return fetch(file)
+                                .then(response => response.blob())
+                                .then(blob => {
+                                    const fileName = file.split('/').pop();
+                                    folder.file(fileName, blob);
+                                });
+                        });
+
+                        // Wait for all files to be fetched and added to the zip
+                        await Promise.all(filePromises);
+
+                        // Generate and download the zip file
+                        zip.generateAsync({ type: 'blob' })
+                            .then(content => {
+                                saveAs(content, `${outlet.name}.zip`);
+                            });
+                    });
+                    resultItem.appendChild(downloadButton);
+
+                    searchResults.appendChild(resultItem);
+                });
+            }
+        }
+    </script>
+</body>
+</html>

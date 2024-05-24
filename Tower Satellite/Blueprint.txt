@@ -1,0 +1,178 @@
+{
+  "center": 9.0,
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "parts": [
+    {
+      "n": "Probe",
+      "p": {
+        "x": 10.5,
+        "y": 62.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 270.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width": 2.0
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 11.0,
+        "y": 56.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 0.9,
+        "width_a": 0.89999997615814209,
+        "width_b": 0.89999997615814209,
+        "height": 9.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Metal",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Side Fuselage",
+      "p": {
+        "x": 11.5,
+        "y": 56.5
+      },
+      "o": {
+        "x": -0.5,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 3.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Side Fuselage",
+      "p": {
+        "x": 10.5,
+        "y": 56.5
+      },
+      "o": {
+        "x": 0.5,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 3.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Strut",
+      "p": {
+        "x": 12.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 190.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 4.0
+      }
+    },
+    {
+      "n": "Strut",
+      "p": {
+        "x": 8.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 315.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 4.0
+      }
+    },
+    {
+      "n": "Strut",
+      "p": {
+        "x": 8.5,
+        "y": 63.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 80.00001
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 4.0
+      }
+    },
+    {
+      "n": "Fairing Cone",
+      "p": {
+        "x": 10.0,
+        "y": 66.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 50.00001
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 9.0,
+        "width": 9.0,
+        "height": 2.0,
+        "force_percent": 0.5
+      },
+      "T": {
+        "fragment": "",
+        "color_tex": "_",
+        "shade_tex": "_"
+      }
+    },
+    {
+      "n": "Docking Port",
+      "p": {
+        "x": 8.5,
+        "y": 67.8
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 60.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width": 0.95
+      }
+    }
+  ],
+  "stages": []
+}

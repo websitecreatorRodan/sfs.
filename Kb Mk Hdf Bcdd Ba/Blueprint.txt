@@ -1,0 +1,2182 @@
+{
+    "saveName": "",
+    "cameraPosition": {
+        "x": 9.970460891723633,
+        "y": 28.351268768310548,
+        "z": -7.853400707244873
+    },
+    "parts": [
+        {
+            "partName": "4x8 Tank",
+            "position": {
+                "x": 7.0,
+                "y": 14.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 3
+        },
+        {
+            "partName": "4x8 Tank",
+            "position": {
+                "x": 9.0,
+                "y": 14.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 3
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 7.0,
+                "y": 13.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 6
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 7.0,
+                "y": 18.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 6
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 9.0,
+                "y": 13.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 9.0,
+                "y": 12.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 9.0,
+                "y": 12.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 9.0,
+                "y": 11.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 9.0,
+                "y": 11.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 9.0,
+                "y": 10.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 9.0,
+                "y": 10.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.0,
+                "y": 12.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.0,
+                "y": 11.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.0,
+                "y": 10.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 12.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 11.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 10.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 10.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone",
+            "position": {
+                "x": 11.0,
+                "y": 10.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 1
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.5,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 8.0,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 8.5,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.0,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.0,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.5,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.0,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.5,
+                "y": 21.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 8.0,
+                "y": 21.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 8.5,
+                "y": 21.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.0,
+                "y": 21.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.5,
+                "y": 21.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.0,
+                "y": 21.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 21.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.0,
+                "y": 21.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 11.0,
+                "y": 20.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 6
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 8.0,
+                "y": 23.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 10.0,
+                "y": 23.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 8.0,
+                "y": 24.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 10.0,
+                "y": 24.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Ion Engine",
+            "position": {
+                "x": 9.0,
+                "y": 10.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 20,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Ion Engine",
+            "position": {
+                "x": 8.0,
+                "y": 10.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 20,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Ion Engine",
+            "position": {
+                "x": 7.0,
+                "y": 10.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 20,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Ion Engine",
+            "position": {
+                "x": 10.0,
+                "y": 10.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 20,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.0,
+                "y": 25.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.5,
+                "y": 25.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.0,
+                "y": 25.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 8.0,
+                "y": 26.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.0,
+                "y": 27.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 26.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 1
+        },
+        {
+            "partName": "8w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 31.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 1
+        },
+        {
+            "partName": "8w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 32.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 1
+        },
+        {
+            "partName": "6w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 35.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 1
+        },
+        {
+            "partName": "4w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 37.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 1
+        },
+        {
+            "partName": "Top Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 37.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 25.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 9.0,
+                "y": 26.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Probe",
+            "position": {
+                "x": 8.0,
+                "y": 26.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 0.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 0.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 1.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 6.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 6.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 7.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 7.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 8.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 8.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 9.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 9.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 10.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 10.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 11.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 11.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 12.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 12.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 13.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 13.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 14.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 1.5,
+                "y": 14.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x14 Tank",
+            "position": {
+                "x": 0.0,
+                "y": 36.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 3
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 4.5,
+                "y": 25.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 11.0,
+                "y": 22.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 6
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 11.0,
+                "y": 24.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 6
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 5.5,
+                "y": 25.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 4.5,
+                "y": 19.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 5.5,
+                "y": 19.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 6.5,
+                "y": 10.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone",
+            "position": {
+                "x": 7.0,
+                "y": 10.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 1
+        },
+        {
+            "partName": "Landing Leg",
+            "position": {
+                "x": 3.0,
+                "y": 2.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 1.5,
+                "y": 1.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 1.5,
+                "y": 2.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 1.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 1.5,
+                "y": 3.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 1.5,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 2.5,
+                "y": 2.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Landing Leg",
+            "position": {
+                "x": 0.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 1.5,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 1.5,
+                "y": 4.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 0.0,
+                "y": 16.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 0.5,
+                "y": 16.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 1.0,
+                "y": 17.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 1.0,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 1.5,
+                "y": 17.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 1.5,
+                "y": 18.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 2.0,
+                "y": 19.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 2.5,
+                "y": 18.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 2.5,
+                "y": 18.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 4.5,
+                "y": 18.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x2 Tank",
+            "position": {
+                "x": 0.0,
+                "y": 28.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 0.0,
+                "y": 29.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 0.5,
+                "y": 29.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x14 Tank",
+            "position": {
+                "x": 0.0,
+                "y": 29.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 3
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 1.0,
+                "y": 23.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 2.0,
+                "y": 26.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 1.5,
+                "y": 25.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 1.5,
+                "y": 25.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 1.5,
+                "y": 24.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 6.5,
+                "y": 18.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 5.5,
+                "y": 18.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 4.5,
+                "y": 18.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 3.5,
+                "y": 25.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 2.5,
+                "y": 25.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 2.0,
+                "y": 26.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 2.0,
+                "y": 26.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 1.0,
+                "y": 26.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x2 Tank",
+            "position": {
+                "x": 0.0,
+                "y": 22.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 4.5,
+                "y": 24.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 5.5,
+                "y": 24.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 6.5,
+                "y": 24.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 11.0,
+                "y": 25.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 7.0,
+                "y": 25.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 11.0,
+                "y": 24.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Port 2x1",
+            "position": {
+                "x": 7.0,
+                "y": 24.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 7.0,
+                "y": 24.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Port 2x1",
+            "position": {
+                "x": 7.0,
+                "y": 18.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Solar Panel",
+            "position": {
+                "x": 11.5,
+                "y": 9.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Solar Panel",
+            "position": {
+                "x": 6.5,
+                "y": 9.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Solar Panel",
+            "position": {
+                "x": 6.5,
+                "y": 7.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Solar Panel",
+            "position": {
+                "x": 11.5,
+                "y": 7.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Ion Engine",
+            "position": {
+                "x": 11.0,
+                "y": 10.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 20,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Separator 6w",
+            "position": {
+                "x": 7.5,
+                "y": 27.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 34.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 1
+        },
+        {
+            "partName": "8w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 29.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 1
+        },
+        {
+            "partName": "Ion Engine",
+            "position": {
+                "x": 7.5,
+                "y": 33.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Ion Engine",
+            "position": {
+                "x": 9.5,
+                "y": 33.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Ion Engine",
+            "position": {
+                "x": 8.5,
+                "y": 33.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Ion Engine",
+            "position": {
+                "x": 10.5,
+                "y": 33.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Landing Leg",
+            "position": {
+                "x": 7.5,
+                "y": 33.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Landing Leg",
+            "position": {
+                "x": 10.5,
+                "y": 33.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 33.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.0,
+                "y": 33.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 2x1",
+            "position": {
+                "x": 9.0,
+                "y": 33.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 8.5,
+                "y": 33.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 8.0,
+                "y": 33.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 2x1",
+            "position": {
+                "x": 9.0,
+                "y": 32.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 9.0,
+                "y": 32.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 9.0,
+                "y": 31.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 8.0,
+                "y": 31.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 10.0,
+                "y": 31.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Probe",
+            "position": {
+                "x": 8.0,
+                "y": 31.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 8.5,
+                "y": 30.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Probe",
+            "position": {
+                "x": 8.0,
+                "y": 28.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Separator 4w",
+            "position": {
+                "x": 8.0,
+                "y": 29.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 8.0,
+                "y": 28.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 9.0,
+                "y": 28.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        }
+    ],
+    "rotation": 0
+}

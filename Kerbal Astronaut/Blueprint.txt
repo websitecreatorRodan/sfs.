@@ -1,0 +1,1545 @@
+{
+  "parts": [
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.97574,
+        "y": 72.50188
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.5,
+        "width_a": 0.5,
+        "width_b": 0.5,
+        "height": 0.3,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.97574,
+        "y": 73.10188
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.0,
+        "width_a": 1.0,
+        "width_b": 1.0,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.701877,
+        "y": 73.00426
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      },
+      "N": {
+        "width_original": 0.4,
+        "width_a": 0.40000000596046448,
+        "width_b": 0.40000000596046448,
+        "height": 0.5,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 74.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.2,
+        "width_a": 1.2000000476837158,
+        "width_b": 1.2000000476837158,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Metal",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 73.8
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.2,
+        "width_a": 1.2000000476837158,
+        "width_b": 1.2000000476837158,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Metal",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 74.2
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.8,
+        "width_a": 1.2000000476837158,
+        "width_b": 0.800000011920929,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Metal",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 73.6000061
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 1.2,
+        "width_a": 1.2000000476837158,
+        "width_b": 1.2000000476837158,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Metal",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 74.3999939
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.4,
+        "width_a": 0.800000011920929,
+        "width_b": 0.40000000596046448,
+        "height": 0.1,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Metal",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.4,
+        "y": 73.6
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.6,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.6,
+        "y": 73.6
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.6,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.5,
+        "y": 73.3999939
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 35
+      },
+      "N": {
+        "width_original": 0.2,
+        "width_a": 0.20000000298023224,
+        "width_b": 0.20000000298023224,
+        "height": 0.3,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.5,
+        "y": 73.39999
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -35
+      },
+      "N": {
+        "width_original": 0.2,
+        "width_a": 0.20000000298023224,
+        "width_b": 0.20000000298023224,
+        "height": 0.3,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.6,
+        "y": 74.2
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 35
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.4,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.427927,
+        "y": 74.43574
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 60
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.3,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.168119,
+        "y": 74.55574
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 90
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.3,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.608312,
+        "y": 74.45574
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -65
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.3,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.398504,
+        "y": 74.20574
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -40
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.4,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.5,
+        "y": 73.35999
+      },
+      "o": {
+        "x": 1,
+        "y": -1,
+        "z": -90
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 1.0,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.672073,
+        "y": 73.6057358
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.5,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "Edges Faces"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.327927,
+        "y": 73.64574
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.5,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "Edges Faces"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.408311,
+        "y": 74.28574
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -50
+      },
+      "N": {
+        "width_original": 0.2,
+        "width_a": 0.20000000298023224,
+        "width_b": 0.20000000298023224,
+        "height": 0.3,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.568119,
+        "y": 74.28574
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 50
+      },
+      "N": {
+        "width_original": 0.2,
+        "width_a": 0.20000000298023224,
+        "width_b": 0.20000000298023224,
+        "height": 0.3,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.692073,
+        "y": 74.1057358
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 60
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.3,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.327927,
+        "y": 74.13574
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -60
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.3,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 73.40001
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.8,
+        "width_a": 0.800000011920929,
+        "width_b": 1.2000000476837158,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Metal",
+        "shape_tex": "Flat Smooth"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.47574,
+        "y": 73.30188
+      },
+      "o": {
+        "x": 1,
+        "y": -1,
+        "z": -450
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.5,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "Edges Faces"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.0,
+        "y": 73.3999939
+      },
+      "o": {
+        "x": 1,
+        "y": -1,
+        "z": -450
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.5,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Edges Faces"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.97574,
+        "y": 73.30188
+      },
+      "o": {
+        "x": 1,
+        "y": -1,
+        "z": -450
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.5,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "Edges Faces"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.77574,
+        "y": 72.70187
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 25
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.6,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.18705,
+        "y": 72.7487259
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -25
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.6,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.564431,
+        "y": 72.3487244
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -50
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.4,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.369323,
+        "y": 72.34476
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 50
+      },
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.4,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.329323,
+        "y": 72.94476
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -120
+      },
+      "N": {
+        "width_original": 0.5,
+        "width_a": 0.5,
+        "width_b": 0.5,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.601226,
+        "y": 72.9487152
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 120
+      },
+      "N": {
+        "width_original": 0.5,
+        "width_a": 0.5,
+        "width_b": 0.5,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.97574,
+        "y": 72.50188
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -180
+      },
+      "N": {
+        "width_original": 0.5,
+        "width_a": 0.5,
+        "width_b": 0.5,
+        "height": 0.3,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.102529,
+        "y": 73.14476
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -120
+      },
+      "N": {
+        "width_original": 0.3,
+        "width_a": 0.30000001192092896,
+        "width_b": 0.30000001192092896,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.82802,
+        "y": 73.04872
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 120
+      },
+      "N": {
+        "width_original": 0.2,
+        "width_a": 0.20000000298023224,
+        "width_b": 0.5,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.229322,
+        "y": 72.64476
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      },
+      "N": {
+        "width_original": 0.3,
+        "width_a": 0.30000001192092896,
+        "width_b": 0.30000001192092896,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.534433,
+        "y": 72.64872
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      },
+      "N": {
+        "width_original": 0.3,
+        "width_a": 0.30000001192092896,
+        "width_b": 0.30000001192092896,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.502528,
+        "y": 72.94476
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -150
+      },
+      "N": {
+        "width_original": 0.3,
+        "width_a": 0.30000001192092896,
+        "width_b": 0.30000001192092896,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.42802048,
+        "y": 72.9487152
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 150
+      },
+      "N": {
+        "width_original": 0.3,
+        "width_a": 0.30000001192092896,
+        "width_b": 0.30000001192092896,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.32802,
+        "y": 72.77551
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 150
+      },
+      "N": {
+        "width_original": 0.3,
+        "width_a": 0.30000001192092896,
+        "width_b": 0.30000001192092896,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.22802,
+        "y": 72.60231
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 150
+      },
+      "N": {
+        "width_original": 0.3,
+        "width_a": 0.30000001192092896,
+        "width_b": 0.30000001192092896,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.219323,
+        "y": 72.34476
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      },
+      "N": {
+        "width_original": 0.3,
+        "width_a": 0.30000001192092896,
+        "width_b": 0.30000001192092896,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.554431,
+        "y": 72.3487244
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      },
+      "N": {
+        "width_original": 0.3,
+        "width_a": 0.30000001192092896,
+        "width_b": 0.30000001192092896,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.67574,
+        "y": 72.20187
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 170
+      },
+      "N": {
+        "width_original": 0.3,
+        "width_a": 0.30000001192092896,
+        "width_b": 0.30000001192092896,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.27574,
+        "y": 72.20187
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -170
+      },
+      "N": {
+        "width_original": 0.3,
+        "width_a": 0.30000001192092896,
+        "width_b": 0.30000001192092896,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.602528,
+        "y": 72.77155
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -150
+      },
+      "N": {
+        "width_original": 0.3,
+        "width_a": 0.30000001192092896,
+        "width_b": 0.30000001192092896,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.702528,
+        "y": 72.59834
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -150
+      },
+      "N": {
+        "width_original": 0.3,
+        "width_a": 0.30000001192092896,
+        "width_b": 0.30000001192092896,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.64101,
+        "y": 72.00491
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 170
+      },
+      "N": {
+        "width_original": 0.3,
+        "width_a": 0.30000001192092896,
+        "width_b": 0.30000001192092896,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.31047,
+        "y": 72.00491
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -170
+      },
+      "N": {
+        "width_original": 0.3,
+        "width_a": 0.30000001192092896,
+        "width_b": 0.30000001192092896,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.97574,
+        "y": 72.10188
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width_original": 0.7,
+        "width_a": 0.5,
+        "width_b": 0.5,
+        "height": 0.1,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.60628,
+        "y": 71.90796
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -180
+      },
+      "N": {
+        "width_original": 0.5,
+        "width_a": 0.5,
+        "width_b": 0.5,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.3452,
+        "y": 71.90796
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -180
+      },
+      "N": {
+        "width_original": 0.5,
+        "width_a": 0.5,
+        "width_b": 0.5,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.60628,
+        "y": 71.7079544
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -180
+      },
+      "N": {
+        "width_original": 0.5,
+        "width_a": 0.5,
+        "width_b": 0.5,
+        "height": 0.3,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.3452,
+        "y": 71.7079544
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -180
+      },
+      "N": {
+        "width_original": 0.5,
+        "width_a": 0.5,
+        "width_b": 0.5,
+        "height": 0.3,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.128019,
+        "y": 72.3291
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -20
+      },
+      "N": {
+        "width_original": 0.4,
+        "width_a": 0.40000000596046448,
+        "width_b": 0.40000000596046448,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.802528,
+        "y": 72.32514
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 20
+      },
+      "N": {
+        "width_original": 0.4,
+        "width_a": 0.40000000596046448,
+        "width_b": 0.40000000596046448,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.90628,
+        "y": 72.30795
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 100
+      },
+      "N": {
+        "width_original": 0.4,
+        "width_a": 0.40000000596046448,
+        "width_b": 0.40000000596046448,
+        "height": 0.1,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Half Rivets"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 7.998019,
+        "y": 72.3291
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -100
+      },
+      "N": {
+        "width_original": 0.4,
+        "width_a": 0.40000000596046448,
+        "width_b": 0.40000000596046448,
+        "height": 0.1,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "Half Rivets"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.4452,
+        "y": 71.50795
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -180
+      },
+      "N": {
+        "width_original": 0.7,
+        "width_a": 0.699999988079071,
+        "width_b": 0.699999988079071,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "Half Rivets"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.50628,
+        "y": 71.50795
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -180
+      },
+      "N": {
+        "width_original": 0.7,
+        "width_a": 0.699999988079071,
+        "width_b": 0.699999988079071,
+        "height": 0.2,
+        "fuel_percent": 0.0
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "Half Rivets"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.2,
+        "y": 72.9
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -40
+      },
+      "N": {
+        "width_original": 0.2,
+        "width_a": 0.20000000298023224,
+        "width_b": 0.20000000298023224,
+        "height": 0.2,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.7,
+        "y": 72.9
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 40
+      },
+      "N": {
+        "width_original": 0.2,
+        "width_a": 0.20000000298023224,
+        "width_b": 0.20000000298023224,
+        "height": 0.2,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Orange",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "RCS",
+      "p": {
+        "x": 9.0,
+        "y": 74.0
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -270
+      }
+    },
+    {
+      "n": "RCS",
+      "p": {
+        "x": 9.0,
+        "y": 72.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      }
+    },
+    {
+      "n": "Probe",
+      "p": {
+        "x": 9.0,
+        "y": 73.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      },
+      "N": {
+        "width": 0.2
+      }
+    },
+    {
+      "n": "Docking Port",
+      "p": {
+        "x": 7.8,
+        "y": 72.5
+      },
+      "o": {
+        "x": 1,
+        "y": -1,
+        "z": -90
+      },
+      "N": {
+        "width": 0.4
+      }
+    },
+    {
+      "n": "Docking Port",
+      "p": {
+        "x": 10.1,
+        "y": 72.5
+      },
+      "o": {
+        "x": 1,
+        "y": 1,
+        "z": -90
+      },
+      "N": {
+        "width": 0.4
+      }
+    }
+  ]
+}

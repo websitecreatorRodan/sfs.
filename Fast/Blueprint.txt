@@ -1,0 +1,3370 @@
+{
+  "center": 9.0,
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "parts": [
+    {
+      "n": "Probe",
+      "p": {
+        "x": 12.0,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width": 2.0
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 68.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 90.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Wheel Big",
+      "p": {
+        "x": 12.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "wheel_on": false
+      }
+    },
+    {
+      "n": "Wheel Big",
+      "p": {
+        "x": 10.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "wheel_on": false
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 12.0,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Placeholder ION",
+      "p": {
+        "x": 11.5,
+        "y": 68.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": true
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 11.5,
+        "y": 67.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 2.0,
+        "width_a": 2.0,
+        "width_b": 2.0,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 11.5,
+        "y": 66.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 2.0,
+        "width_a": 2.0,
+        "width_b": 2.0,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    }
+  ],
+  "stages": []
+}

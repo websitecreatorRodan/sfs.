@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyberpunk Flappy Bird</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #0d1117;
+            color: #58a6ff;
+            font-family: Arial, sans-serif;
+            overflow: hidden;
+        }
+        .game-container {
+            position: relative;
+            width: 320px;
+            height: 480px;
+            overflow: hidden;
+            background: linear-gradient(to top, #003973, #e5e5be);
+        }
+        .bird {
+            position: absolute;
+            width: 34px;
+            height: 24px;
+            background-color: #ff471a;
+            border-radius: 50%;
+            transition: transform 0.3s;
+        }
+        .pipe {
+            position: absolute;
+            width: 52px;
+            height: 200px;
+            background-color: #22da6e;
+            bottom: 0;
+        }
+        .pipe.top {
+            top: 0;
+            bottom: initial;
+        }
+    </style>
+</head>
+<body>
+    <div class="game-container" onclick="birdJump()">
+        <div class="bird" id="bird"></div>
+    </div>
+    <script>
+        const bird = document.getElementById('bird');
+        let birdY = 200;
+        let gravity = 3;
+        let gameRunning = true;
+
+        function updateBird() {
+            if (gameRunning) {
+                birdY += gravity;
+                bird.style.top = birdY + 'px';
+                if (birdY > 460 || birdY < 0) {
+                    gameOver();
+                }
+            }
+        }
+
+        function birdJump() {
+            if (gameRunning) {
+                birdY -= 60;
+                bird.style.top = birdY + 'px';
+            }
+        }
+
+        function gameOver() {
+            gameRunning = false;
+            alert("Game Over!");
+            birdY = 200; // Reset bird position
+            bird.style.top = birdY + 'px';
+            gameRunning = true; // Reset game state
+        }
+
+        setInterval(updateBird, 100);
+
+        // Function to add pipes
+        function addPipe() {
+            const pipe = document.createElement('div');
+            const pipeTop = document.createElement('div');
+            const gameContainer = document.querySelector('.game-container');
+            const pipeHeight = Math.floor(Math.random() * (300 - 100 + 1) + 100);
+            const gap = 150;
+
+            pipe.className = 'pipe';
+            pipeTop.className = 'pipe top';
+            pipe.style.height = `${pipeHeight}px`;
+            pipeTop.style.height = `${320 - pipeHeight - gap}px`;
+
+            pipe.style.left = '320px';
+            pipeTop.style.left = '320px';
+
+            gameContainer.appendChild(pipe);
+            gameContainer.appendChild(pipeTop);
+
+            function movePipe() {
+                const pipeCurrentPosition = parseInt(window.getComputedStyle(pipe).getPropertyValue('left'));
+                if (pipeCurrentPosition > -52) {
+                    pipe.style.left = pipeCurrentPosition - 2 + 'px';
+                    pipeTop.style.left = pipeCurrentPosition - 2 + 'px';
+                } else {
+                    pipe.remove();
+                    pipeTop.remove();
+                }
+            }
+
+            setInterval(movePipe, 20);
+        }
+
+        setInterval(addPipe, 3000);
+    </script>
+</body>
+</html>
